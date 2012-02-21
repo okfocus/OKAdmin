@@ -5,7 +5,7 @@ require "rails_admin_OKAdmin/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "OKAdmin"
+  s.name        = "rails_admin_OKAdmin"
   s.version     = RailsAdminOKAdmin::VERSION
   s.authors     = ["OKFocus"]
   s.email       = ["r@okfoc.us"]
