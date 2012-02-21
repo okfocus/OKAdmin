@@ -5,13 +5,13 @@ require "rails_admin_OKAdmin/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "rails_admin_OKAdmin"
+  s.name        = "OKAdmin"
   s.version     = RailsAdminOKAdmin::VERSION
-  s.authors     = ["TODO: Your name"]
-  s.email       = ["TODO: Your email"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of RailsAdminOKAdmin."
-  s.description = "TODO: Description of RailsAdminOKAdmin."
+  s.authors     = ["OKFocus"]
+  s.email       = ["r@okfoc.us"]
+  s.homepage    = "http://okfoc.us"
+  s.summary     = "OKFocus Theme for Rails Admin"
+  s.description = "OKFocus Theme for Rails Admin"
 
   s.files = Dir["{lib,vendor}/**/*"] + ["MIT-LICENSE", "Rakefile", "README.rdoc"]
 
