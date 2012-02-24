@@ -89,16 +89,13 @@ min-width: 200px;
 
 footer p {
 margin: 0 0 9px;
-font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-font-size:0px;
 line-height: 18px;
-color:white;
-}
-footer p:before{
-content:'OKFocus Admin (c) 2012 http://okfoc.us ';
 font-family: Monaco, "Courier New", Courier, monospace;
 font-size: 11px;
 color:#333;
+}
+footer p:before{
+content:'OKFocus (c) 2012 http://okfoc.us - ';
 }
 .nav .nav-header {
 display: block;
