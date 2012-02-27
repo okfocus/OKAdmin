@@ -1,0 +1,7 @@
+h1. OKAdmin
+
+p. The OKFocus skin for RailsAdmin.
+
+!http://f.cl.ly/items/1e0M0N0j0m1t083B2W1B/Screen%20shot%202012-02-27%20at%201.53.21%20PM.png!
+
+!http://f.cl.ly/items/0R3V1O3W3l0g3K1K1m1a/Screen%20shot%202012-02-27%20at%201.53.50%20PM.png!

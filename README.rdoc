@@ -1,3 +1,0 @@
-= OKFocus Admin Style for Rails Admin
-
-all custom styles found in /vendor/assets/stylesheets/rails_admin/themes/OKAdmin/theming.css.scss
