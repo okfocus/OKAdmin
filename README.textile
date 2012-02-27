@@ -10,7 +10,7 @@ h2. Installation
 
 p. In your Gemfile
 
-pre. gem 'rails_admin_example_theme', :git => 'git://github.com/okfocus/OKAdmin.git'
+pre. gem 'rails_admin_OKAdmin', :git => 'git://github.com/okfocus/OKAdmin.git'
 
 p. Inside config/application.rb, just after Bundler.require:
 
