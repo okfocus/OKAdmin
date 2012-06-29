@@ -14,5 +14,5 @@ pre. gem 'rails_admin_OKAdmin', :git => 'git://github.com/okfocus/OKAdmin.git'
 
 p. Inside config/application.rb, just after Bundler.require:
 
-pre. ENV['RAILS_ADMIN_THEME'] = 'example_theme'
+pre. ENV['RAILS_ADMIN_THEME'] = 'OKAdmin'
 
